@@ -1,0 +1,16 @@
+[
+  {
+    "player": "Jasprit Bumrah",
+    "role": "Bowler",
+    "form_last_5_matches": "4 wickets, economy 6.5",
+    "pitch_performance": "Good on slow pitches",
+    "fantasy_points_avg": 45
+  },
+  {
+    "player": "Rohit Sharma",
+    "role": "Batsman",
+    "form_last_5_matches": "250 runs, 2 centuries",
+    "pitch_performance": "Strong on batting-friendly pitches",
+    "fantasy_points_avg": 60
+  }
+]
